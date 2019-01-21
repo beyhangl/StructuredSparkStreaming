@@ -1,4 +1,4 @@
-Structured Spark Streaming with Kafka and Redis
+Structured Spark Streaming with Kafka
 
 This project uses structured streaming architecture that comes with spark 2.0+ of real time data read from kafka.
 

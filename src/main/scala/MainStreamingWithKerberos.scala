@@ -17,7 +17,7 @@ import org.apache.commons.pool2.impl.GenericObjectPoolConfig
 /*
 flume start example
 
-flume-ng agent -Djava.security.auth.login.config=/.conf -Xmx1024m -Xms1024m -n tier1 -f example-agent.properties
+flume-ng agent -Djava.security.auth.login.config=	/.conf -Xmx1024m -Xms1024m -n tier1 -f example-agent.properties
 */
 
 object MainStreamingWithKerberos {
