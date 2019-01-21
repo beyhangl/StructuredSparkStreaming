@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /home/kahin/Downloads/SparkStKafka/src/main/scala/MainStre
+ aming.scala
+Main-Class: MainStreaming
+

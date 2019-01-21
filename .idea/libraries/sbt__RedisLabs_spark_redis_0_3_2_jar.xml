@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: RedisLabs:spark-redis:0.3.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/RedisLabs/spark-redis/jars/spark-redis-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
